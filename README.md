@@ -1,4 +1,4 @@
-# FUNDING AND DEPRIVATION AS DETERMINANTS OF CHILD WELFARE AND PROTECTION SERVICES QUALITY: A MULTILEVEL ANALYSIS OF EVALUATIONS IN ENGLAND
+# AUSTERITY, POVERTY AND CHILDREN’S SERVICES QUALITY IN ENGLAND: CONSEQUENCES FOR CHILD WELFARE AND PUBLIC SERVICES
 ## Calum J R Webb, Davara L Bennett, Paul W B Bywaters
 
 This repository contains all data and analysis code required to replicate the analysis of the above named paper, which is currently being considered by academic journals. 
